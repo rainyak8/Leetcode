@@ -85,9 +85,23 @@ class P538_ConvertBstToGreaterTree{
  * }
  */
 class Solution {
+	TreeNode pre = null;
     public TreeNode convertBST(TreeNode root) {
-
+		root = convertBST1(root);
+		return root;
     }
+
+	public TreeNode convertBST1(TreeNode root) {
+		if(root == null){
+			return null;
+		}
+		convertBST1(root.right);
+		if(pre != null)
+			root.val += pre.val;
+		pre = root;
+		convertBST1(root.left);
+		return root;
+	}
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
