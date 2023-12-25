@@ -597,6 +597,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P131_PalindromePartitioning .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P131_PalindromePartitioning .md" />
+              <option name="frontendQuestionId" value="leetcode.cn131" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P131_PalindromePartitioning .java" />
+              <option name="titleSlug" value="palindrome-partitioning" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P17_LetterCombinationsOfAPhoneNumber .java">
           <value>
             <LeetcodeEditor>
@@ -638,6 +649,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P236_LowestCommonAncestorOfABinaryTree .java" />
               <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P39_CombinationSum .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P39_CombinationSum .md" />
+              <option name="frontendQuestionId" value="leetcode.cn39" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P39_CombinationSum .java" />
+              <option name="titleSlug" value="combination-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P40_CombinationSumIi .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P40_CombinationSumIi .md" />
+              <option name="frontendQuestionId" value="leetcode.cn40" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P40_CombinationSumIi .java" />
+              <option name="titleSlug" value="combination-sum-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -770,6 +803,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P98_ValidateBinarySearchTree .java" />
               <option name="titleSlug" value="validate-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/PLCR 131_JianShengZiLcof .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/PLCR 131_JianShengZiLcof .md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCR 131" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/PLCR 131_JianShengZiLcof .java" />
+              <option name="titleSlug" value="jian-sheng-zi-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
