@@ -652,6 +652,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P332_ReconstructItinerary .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P332_ReconstructItinerary .md" />
+              <option name="frontendQuestionId" value="leetcode.cn332" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P332_ReconstructItinerary .java" />
+              <option name="titleSlug" value="reconstruct-itinerary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P37_SudokuSolver .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P37_SudokuSolver .md" />
+              <option name="frontendQuestionId" value="leetcode.cn37" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P37_SudokuSolver .java" />
+              <option name="titleSlug" value="sudoku-solver" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P39_CombinationSum .java">
           <value>
             <LeetcodeEditor>
@@ -737,6 +759,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P501_FindModeInBinarySearchTree .java" />
               <option name="titleSlug" value="find-mode-in-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P51_NQueens .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P51_NQueens .md" />
+              <option name="frontendQuestionId" value="leetcode.cn51" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P51_NQueens .java" />
+              <option name="titleSlug" value="n-queens" />
             </LeetcodeEditor>
           </value>
         </entry>
