@@ -79,7 +79,7 @@ class Solution {
 				}
 			}
 			//System.out.println("p = " + p[0] + ' ' + p[1]);
-			//que.add(p[1],p);   //Linkedlist.add(index, value)，會將value插入到指定index裡。
+			//que.add(p[1],p);   //Linkedlist.add(index, value)，會將value插入到指定index裡
 		}
 		return count;
     }
