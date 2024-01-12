@@ -751,6 +751,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P279_PerfectSquares .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P279_PerfectSquares .md" />
+              <option name="frontendQuestionId" value="leetcode.cn279" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P279_PerfectSquares .java" />
+              <option name="titleSlug" value="perfect-squares" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P322_CoinChange .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P322_CoinChange .md" />
+              <option name="frontendQuestionId" value="leetcode.cn322" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P322_CoinChange .java" />
+              <option name="titleSlug" value="coin-change" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P332_ReconstructItinerary .java">
           <value>
             <LeetcodeEditor>
