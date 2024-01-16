@@ -58,7 +58,7 @@ class P122_BestTimeToBuyAndSellStockIi{
 //力扣代码
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public int maxProfit(int[] prices) {
+/*    public int maxProfit(int[] prices) {
 		int count = 0;
 		for (int i = 1; i < prices.length; i++) {
 			if(prices[i] > prices[i - 1]) {
@@ -66,7 +66,19 @@ class Solution {
 			}
 		}
 		return count;
-    }
+    }*/
+	public int maxProfit(int[] prices) {
+		//我说怎么那么熟悉原来用贪心写过
+		if(prices.length == 1) return 0;
+		int[][] dp = new int[prices.length][2];
+		dp[0][0] = -prices[0];
+		dp[0][1] = 0;
+		for (int i = 1; i < prices.length; i++) {
+			dp[i][0] = Math.max(dp[i-1][0], dp[i-1][1]-prices[i]);//就改这里，因为前一天可能有赚所以把前一天的最大加上来比较。
+			dp[i][1] = Math.max(dp[i-1][1],dp[i-1][0]+prices[i]);
+		}
+		return dp[prices.length-1][1];
+	}
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
