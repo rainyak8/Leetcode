@@ -652,6 +652,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P115_DistinctSubsequences .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P115_DistinctSubsequences .md" />
+              <option name="frontendQuestionId" value="leetcode.cn115" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P115_DistinctSubsequences .java" />
+              <option name="titleSlug" value="distinct-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P1185_DayOfTheWeek .java">
           <value>
             <LeetcodeEditor>
@@ -949,6 +960,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P392_IsSubsequence .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P392_IsSubsequence .md" />
+              <option name="frontendQuestionId" value="leetcode.cn392" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P392_IsSubsequence .java" />
+              <option name="titleSlug" value="is-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P39_CombinationSum .java">
           <value>
             <LeetcodeEditor>
@@ -1213,6 +1235,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P583_DeleteOperationForTwoStrings .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P583_DeleteOperationForTwoStrings .md" />
+              <option name="frontendQuestionId" value="leetcode.cn583" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P583_DeleteOperationForTwoStrings .java" />
+              <option name="titleSlug" value="delete-operation-for-two-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P617_MergeTwoBinaryTrees .java">
           <value>
             <LeetcodeEditor>
@@ -1331,6 +1364,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P718_MaximumLengthOfRepeatedSubarray .java" />
               <option name="titleSlug" value="maximum-length-of-repeated-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P72_EditDistance .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/doc/content/P72_EditDistance .md" />
+              <option name="frontendQuestionId" value="leetcode.cn72" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/main/java/newjava/leetcode/editor/cn/P72_EditDistance .java" />
+              <option name="titleSlug" value="edit-distance" />
             </LeetcodeEditor>
           </value>
         </entry>
